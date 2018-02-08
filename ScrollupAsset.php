@@ -18,7 +18,7 @@ class ScrollupAsset extends AssetBundle
 	{
 		$this->sourcePath = __DIR__ . '/assets';
 
-		if (defined('YII_DEBUG')) {
+		if (defined('YII_DEBUG') && YII_DEBUG) {
 			$this->js = [
 				'js/jquery.scrollUp.js'
 			];

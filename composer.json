@@ -1,5 +1,5 @@
 {
-	"name" : "raoul2000/yii2-scrollup-widget",
+	"name" : "grptx/yii2-scrollup-widget",
 	"description" : "Wrapper around the Scrollup JQuery plugin",
 	"type" : "yii2-extension",
 	"keywords" : [
